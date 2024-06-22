@@ -29,7 +29,7 @@
 1. **프로젝트를 클론합니다:**
 
     ```bash
-    git clone https://github.com/username/repository.git
+    git clone https://github.com/2384star/image_distance.git
     ```
 
 2. **프로젝트 디렉토리로 이동합니다:**
