@@ -65,7 +65,7 @@
 - **distance.py**: 거리 계산 관련 함수 포함
 - **image_processing.py**: 이미지 처리 관련 함수 포함
 - **session_state.py**: 세션 상태 초기화 관련 함수 포함
-- **ui_elements.py**: 사용자 인터페이스 요소 포함
+- **UI_config.py**: 사용자 인터페이스 요소 포함
 
 각 파일의 역할과 기능은 다음과 같습니다:
 
@@ -73,7 +73,7 @@
 - **distance.py**: 두 점 사이의 거리를 계산하는 함수들을 포함합니다.
 - **image_processing.py**: 이미지를 불러오고, 처리하며, 거리 정보를 표시하는 함수들을 포함합니다.
 - **session_state.py**: Streamlit 세션 상태를 초기화하고 관리하는 함수들을 포함합니다.
-- **ui_elements.py**: Streamlit 사용자 인터페이스 요소를 정의하고 제어하는 함수들을 포함합니다.
+- **UI_config.py**: Streamlit 사용자 인터페이스 요소를 정의하고 제어하는 함수들을 포함합니다.
 
 
 ## 실행방법
