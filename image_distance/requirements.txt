@@ -1,0 +1,4 @@
+streamlit
+numpy
+pillow
+streamlit-drawable-canvas
